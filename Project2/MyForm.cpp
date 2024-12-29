@@ -11,3 +11,4 @@ int main(array<String^>^ args) {
 	Application::Run(% form);
 
 }
+
